@@ -1,0 +1,14 @@
+.cards-global {
+  background-color: black;
+}
+
+.display-cards {
+  display: flex;
+  /* position: relative; */
+  justify-content: space-around;
+  /* align-items: flex-end; */
+  flex-direction: row;
+  flex-wrap: wrap;
+  /* flex-flow: row wrap; */
+  /* padding: 30px; */
+}

@@ -1,0 +1,18 @@
+
+
+.modal-toggle {
+  display: flex;
+  justify-content: left;
+  margin-left: 50px;
+  margin-top: 15px;
+}
+
+button.modal-toggle {
+  background-color: yellow;
+  cursor: pointer;
+  padding: 1rem 2rem;
+  text-transform: uppercase;
+  font-weight: bolder;
+  border: none;
+  border-radius: 20px;
+}
